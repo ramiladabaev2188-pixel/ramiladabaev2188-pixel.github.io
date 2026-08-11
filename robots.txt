@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://ramiladabaev2188-pixel.github.io
+Sitemap: https://ramiladabaev2188-pixel.github.io/sitemap.xml
